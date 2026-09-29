@@ -1,0 +1,188 @@
+,area_ISO3,area_code,area,area,region,EU27,UNregions
+1,ARM,1,Armenia,Armenia,WA,FALSE,Western Asia
+2,AFG,2,Afghanistan,Afghanistan,WA,FALSE,Southern Asia
+3,ALB,3,Albania,Albania,WE,FALSE,Southern Europe
+4,DZA,4,Algeria,Algeria,WF,FALSE,Northern Africa
+5,AGO,7,Angola,Angola,WF,FALSE,Middle Africa
+6,ATG,8,Antigua and Barbuda,Antigua and Barbuda,WL,FALSE,Caribbean
+7,ARG,9,Argentina,Argentina,WL,FALSE,South America
+8,AUS,10,Australia,Australia,AU,FALSE,Australia and New Zealand
+9,AUT,11,Austria,Austria,AT,TRUE,Western Europe
+10,BHS,12,Bahamas,Bahamas,WL,FALSE,Caribbean
+11,BHR,13,Bahrain,Bahrain,WM,FALSE,Western Asia
+12,BRB,14,Barbados,Barbados,WL,FALSE,Caribbean
+13,BGD,16,Bangladesh,Bangladesh,WA,FALSE,Southern Asia
+14,BOL,19,Bolivia (Plurinational State of),Bolivia (Plurinational State of),WL,FALSE,South America
+15,BWA,20,Botswana,Botswana,WF,FALSE,Southern Africa
+16,BRA,21,Brazil,Brazil,BR,FALSE,South America
+17,BLZ,23,Belize,Belize,WL,FALSE,Central America
+18,SLB,25,Solomon Islands,Solomon Islands,WA,FALSE,Melanesia
+19,BRN,26,Brunei Darussalam,Brunei Darussalam,WA,FALSE,South-eastern Asia
+20,BGR,27,Bulgaria,Bulgaria,BG,TRUE,Eastern Europe
+21,MMR,28,Myanmar,Myanmar,WA,FALSE,South-eastern Asia
+22,BDI,29,Burundi,Burundi,WF,FALSE,Eastern Africa
+23,CMR,32,Cameroon,Cameroon,WF,FALSE,Middle Africa
+24,CAN,33,Canada,Canada,CA,FALSE,Northern America
+25,CPV,35,Cabo Verde,Cabo Verde,WF,FALSE,Western Africa
+26,CAF,37,Central African Republic,Central African Republic,WF,FALSE,Middle Africa
+27,LKA,38,Sri Lanka,Sri Lanka,WA,FALSE,Southern Asia
+28,TCD,39,Chad,Chad,WF,FALSE,Middle Africa
+29,CHL,40,Chile,Chile,WL,FALSE,South America
+30,CHN,41,"China, mainland","China, mainland",CN,FALSE,Eastern Asia
+31,COL,44,Colombia,Colombia,WL,FALSE,South America
+32,COG,46,Congo,Congo,WF,FALSE,Middle Africa
+33,CRI,48,Costa Rica,Costa Rica,WL,FALSE,Central America
+34,CUB,49,Cuba,Cuba,WL,FALSE,Caribbean
+35,CYP,50,Cyprus,Cyprus,CY,TRUE,Western Asia
+36,AZE,52,Azerbaijan,Azerbaijan,WA,FALSE,Western Asia
+37,BEN,53,Benin,Benin,WF,FALSE,Western Africa
+38,DNK,54,Denmark,Denmark,DK,TRUE,Northern Europe
+39,DMA,55,Dominica,Dominica,WL,FALSE,Caribbean
+40,DOM,56,Dominican Republic,Dominican Republic,WL,FALSE,Caribbean
+41,BLR,57,Belarus,Belarus,WE,FALSE,Eastern Europe
+42,ECU,58,Ecuador,Ecuador,WL,FALSE,South America
+43,EGY,59,Egypt,Egypt,WM,FALSE,Northern Africa
+44,SLV,60,El Salvador,El Salvador,WL,FALSE,Central America
+45,EST,63,Estonia,Estonia,EE,TRUE,Northern Europe
+46,FJI,66,Fiji,Fiji,WA,FALSE,Melanesia
+47,FIN,67,Finland,Finland,FI,TRUE,Northern Europe
+48,FRA,68,France,France,FR,TRUE,Western Europe
+49,PYF,70,French Polynesia,French Polynesia,WA,FALSE,Polynesia
+50,DJI,72,Djibouti,Djibouti,WF,FALSE,Eastern Africa
+51,GEO,73,Georgia,Georgia,WA,FALSE,Western Asia
+52,GAB,74,Gabon,Gabon,WF,FALSE,Middle Africa
+53,GMB,75,Gambia,Gambia,WF,FALSE,Western Africa
+54,DEU,79,Germany,Germany,DE,TRUE,Western Europe
+55,BIH,80,Bosnia and Herzegovina,Bosnia and Herzegovina,WE,FALSE,Southern Europe
+56,GHA,81,Ghana,Ghana,WF,FALSE,Western Africa
+57,KIR,83,Kiribati,Kiribati,WA,FALSE,Micronesia
+58,GRC,84,Greece,Greece,GR,TRUE,Southern Europe
+59,GRD,86,Grenada,Grenada,WL,FALSE,Caribbean
+60,GTM,89,Guatemala,Guatemala,WL,FALSE,Central America
+61,GIN,90,Guinea,Guinea,WF,FALSE,Western Africa
+62,GUY,91,Guyana,Guyana,WL,FALSE,South America
+63,HTI,93,Haiti,Haiti,WL,FALSE,Caribbean
+64,HND,95,Honduras,Honduras,WL,FALSE,Central America
+65,HKG,96,"China, Hong Kong SAR","China, Hong Kong SAR",WA,FALSE,Eastern Asia
+66,HUN,97,Hungary,Hungary,HU,TRUE,Eastern Europe
+67,HRV,98,Croatia,Croatia,HR,TRUE,Southern Europe
+68,ISL,99,Iceland,Iceland,WE,FALSE,Northern Europe
+69,IND,100,India,India,IN,FALSE,Southern Asia
+70,IDN,101,Indonesia,Indonesia,ID,FALSE,South-eastern Asia
+71,IRN,102,Iran (Islamic Republic of),Iran (Islamic Republic of),WM,FALSE,Southern Asia
+72,IRQ,103,Iraq,Iraq,WM,FALSE,Western Asia
+73,IRL,104,Ireland,Ireland,IE,TRUE,Northern Europe
+74,ISR,105,Israel,Israel,WM,FALSE,Western Asia
+75,ITA,106,Italy,Italy,IT,TRUE,Southern Europe
+76,CIV,107,Côte d'Ivoire,Côte d'Ivoire,WF,FALSE,Western Africa
+77,KAZ,108,Kazakhstan,Kazakhstan,WA,FALSE,Central Asia
+78,JAM,109,Jamaica,Jamaica,WL,FALSE,Caribbean
+79,JPN,110,Japan,Japan,JP,FALSE,Eastern Asia
+80,JOR,112,Jordan,Jordan,WM,FALSE,Western Asia
+81,KGZ,113,Kyrgyzstan,Kyrgyzstan,WA,FALSE,Central Asia
+82,KEN,114,Kenya,Kenya,WF,FALSE,Eastern Africa
+83,KHM,115,Cambodia,Cambodia,WA,FALSE,South-eastern Asia
+84,PRK,116,Democratic People's Republic of Korea,Democratic People's Republic of Korea,WA,FALSE,Eastern Asia
+85,KOR,117,Republic of Korea,Republic of Korea,KR,FALSE,Eastern Asia
+86,KWT,118,Kuwait,Kuwait,WM,FALSE,Western Asia
+87,LVA,119,Latvia,Latvia,LV,TRUE,Northern Europe
+88,LAO,120,Lao People's Democratic Republic,Lao People's Democratic Republic,WA,FALSE,South-eastern Asia
+89,LBN,121,Lebanon,Lebanon,WM,FALSE,Western Asia
+90,LSO,122,Lesotho,Lesotho,WF,FALSE,Southern Africa
+91,LBR,123,Liberia,Liberia,WF,FALSE,Western Africa
+92,LBY,124,Libya,Libya,WF,FALSE,Northern Africa
+93,LTU,126,Lithuania,Lithuania,LT,TRUE,Northern Europe
+94,MAC,128,"China, Macao SAR","China, Macao SAR",WA,FALSE,Eastern Asia
+95,MDG,129,Madagascar,Madagascar,WF,FALSE,Eastern Africa
+96,MWI,130,Malawi,Malawi,WF,FALSE,Eastern Africa
+97,MYS,131,Malaysia,Malaysia,WA,FALSE,South-eastern Asia
+98,MDV,132,Maldives,Maldives,WA,FALSE,Southern Asia
+99,MLI,133,Mali,Mali,WF,FALSE,Western Africa
+100,MLT,134,Malta,Malta,MT,TRUE,Southern Europe
+101,MRT,136,Mauritania,Mauritania,WF,FALSE,Western Africa
+102,MUS,137,Mauritius,Mauritius,WF,FALSE,Eastern Africa
+103,MEX,138,Mexico,Mexico,MX,FALSE,Central America
+104,MNG,141,Mongolia,Mongolia,WA,FALSE,Eastern Asia
+105,MAR,143,Morocco,Morocco,WF,FALSE,Northern Africa
+106,MOZ,144,Mozambique,Mozambique,WF,FALSE,Eastern Africa
+107,MDA,146,Republic of Moldova,Republic of Moldova,WE,FALSE,Eastern Europe
+108,NAM,147,Namibia,Namibia,WF,FALSE,Southern Africa
+109,NPL,149,Nepal,Nepal,WA,FALSE,Southern Asia
+110,NLD,150,Netherlands,Netherlands,NL,TRUE,Western Europe
+111,ANT,151,Netherlands Antilles,Netherlands Antilles,NL,FALSE,Western Europe
+112,NCL,153,New Caledonia,New Caledonia,WA,FALSE,Melanesia
+113,MKD,154,North Macedonia,North Macedonia,WE,FALSE,Southern Europe
+114,VUT,155,Vanuatu,Vanuatu,WA,FALSE,Melanesia
+115,NZL,156,New Zealand,New Zealand,WA,FALSE,Australia and New Zealand
+116,NIC,157,Nicaragua,Nicaragua,WL,FALSE,Central America
+117,NER,158,Niger,Niger,WF,FALSE,Western Africa
+118,NGA,159,Nigeria,Nigeria,WF,FALSE,Western Africa
+119,NOR,162,Norway,Norway,NO,FALSE,Northern Europe
+120,PAK,165,Pakistan,Pakistan,WA,FALSE,Southern Asia
+121,PAN,166,Panama,Panama,WL,FALSE,Central America
+122,CZE,167,Czech Republic,Czech Republic,CZ,TRUE,Eastern Europe
+123,PNG,168,Papua New Guinea,Papua New Guinea,WA,FALSE,Melanesia
+124,PRY,169,Paraguay,Paraguay,WL,FALSE,South America
+125,PER,170,Peru,Peru,WL,FALSE,South America
+126,PHL,171,Philippines,Philippines,WA,FALSE,South-eastern Asia
+127,POL,173,Poland,Poland,PL,TRUE,Eastern Europe
+128,PRT,174,Portugal,Portugal,PT,TRUE,Southern Europe
+129,GNB,175,Guinea-Bissau,Guinea-Bissau,WF,FALSE,Western Africa
+130,TLS,176,Timor-Leste,Timor-Leste,WA,FALSE,South-eastern Asia
+131,PRI,177,Puerto Rico,Puerto Rico,WL,FALSE,Caribbean
+132,ERI,178,Eritrea,Eritrea,WF,FALSE,Eastern Africa
+133,QAT,179,Qatar,Qatar,WM,FALSE,Western Asia
+134,ZWE,181,Zimbabwe,Zimbabwe,WF,FALSE,Eastern Africa
+135,ROU,183,Romania,Romania,RO,TRUE,Eastern Europe
+136,RWA,184,Rwanda,Rwanda,WF,FALSE,Eastern Africa
+137,RUS,185,Russian Federation,Russian Federation,RU,FALSE,Eastern Europe
+138,KNA,188,Saint Kitts and Nevis,Saint Kitts and Nevis,WL,FALSE,Caribbean
+139,LCA,189,Saint Lucia,Saint Lucia,WL,FALSE,Caribbean
+140,VCT,191,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,WL,FALSE,Caribbean
+141,STP,193,Sao Tome and Principe,Sao Tome and Principe,WF,FALSE,Middle Africa
+142,SAU,194,Saudi Arabia,Saudi Arabia,WM,FALSE,Western Asia
+143,SEN,195,Senegal,Senegal,WF,FALSE,Western Africa
+144,SLE,197,Sierra Leone,Sierra Leone,WF,FALSE,Western Africa
+145,SVN,198,Slovenia,Slovenia,SI,TRUE,Southern Europe
+146,SVK,199,Slovakia,Slovakia,SK,TRUE,Eastern Europe
+147,SGP,200,Singapore,Singapore,WA,FALSE,South-eastern Asia
+148,SOM,201,Somalia,Somalia,WF,FALSE,Eastern Africa
+149,ZAF,202,South Africa,South Africa,ZA,FALSE,Southern Africa
+150,ESP,203,Spain,Spain,ES,TRUE,Southern Europe
+151,SUR,207,Suriname,Suriname,WL,FALSE,South America
+152,TJK,208,Tajikistan,Tajikistan,WA,FALSE,Central Asia
+153,SWZ,209,Eswatini,Eswatini,WF,FALSE,Southern Africa
+154,SWE,210,Sweden,Sweden,SE,TRUE,Northern Europe
+155,CHE,211,Switzerland,Switzerland,CH,FALSE,Western Europe
+156,SYR,212,Syrian Arab Republic,Syrian Arab Republic,WM,FALSE,Western Asia
+157,TKM,213,Turkmenistan,Turkmenistan,WA,FALSE,Central Asia
+158,TWN,214,"China, Taiwan Province of","China, Taiwan Province of",TW,FALSE,Eastern Asia
+159,TZA,215,United Republic of Tanzania,United Republic of Tanzania,WF,FALSE,Eastern Africa
+160,THA,216,Thailand,Thailand,WA,FALSE,South-eastern Asia
+161,TGO,217,Togo,Togo,WF,FALSE,Western Africa
+162,TTO,220,Trinidad and Tobago,Trinidad and Tobago,WL,FALSE,Caribbean
+163,OMN,221,Oman,Oman,WM,FALSE,Western Asia
+164,TUN,222,Tunisia,Tunisia,WF,FALSE,Northern Africa
+165,TUR,223,Turkey,Turkey,TR,FALSE,Western Asia
+166,ARE,225,United Arab Emirates,United Arab Emirates,WM,FALSE,Western Asia
+167,UGA,226,Uganda,Uganda,WF,FALSE,Eastern Africa
+168,GBR,229,United Kingdom,United Kingdom,GB,FALSE,Northern Europe
+169,UKR,230,Ukraine,Ukraine,WE,FALSE,Eastern Europe
+170,USA,231,United States of America,United States of America,US,FALSE,Northern America
+171,BFA,233,Burkina Faso,Burkina Faso,WF,FALSE,Western Africa
+172,URY,234,Uruguay,Uruguay,WL,FALSE,South America
+173,UZB,235,Uzbekistan,Uzbekistan,WA,FALSE,Central Asia
+174,VEN,236,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),WL,FALSE,South America
+175,VNM,237,Viet Nam,Viet Nam,WA,FALSE,South-eastern Asia
+176,ETH,238,Ethiopia,Ethiopia,WF,FALSE,Eastern Africa
+177,WSM,244,Samoa,Samoa,WA,FALSE,Polynesia
+178,YEM,249,Yemen,Yemen,WM,FALSE,Western Asia
+179,COD,250,Democratic Republic of the Congo,Democratic Republic of the Congo,WF,FALSE,Middle Africa
+180,ZMB,251,Zambia,Zambia,WF,FALSE,Eastern Africa
+181,BEL,255,Belgium,Belgium,BE,TRUE,Western Europe
+182,LUX,256,Luxembourg,Luxembourg,LU,TRUE,Western Europe
+183,SRB,272,Serbia,Serbia,WE,FALSE,Southern Europe
+184,MNE,273,Montenegro,Montenegro,WE,FALSE,Southern Europe
+185,SDN,276,Sudan,Sudan,WF,FALSE,Northern Africa
+186,SSD,277,South Sudan,South Sudan,WF,FALSE,Eastern Africa
+187,ROW,999,RoW,RoW,WA,FALSE,ROW
