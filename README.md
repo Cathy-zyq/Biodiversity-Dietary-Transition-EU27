@@ -6,7 +6,9 @@ This repository contains a two-stage workflow for preparing 2017 food-demand dat
 2. `FABEXIO-2017-Sample.ipynb` constructs the dietary scenarios and performs the FABEXIO biodiversity calculations.
 
 ## Repository contents
+
 | File | Description |
+| --- | --- |
 | `FOODTURE data transformation.ipynb` | Prepares the FOODTURE data. It reads `Foodture_app.xlsx` and `population from 2015 to 2020.csv`, then generates `Foodture_results.xlsx`. |
 | `FABEXIO-2017-Sample.ipynb` | Main FABEXIO analysis notebook. Run it after completing the FOODTURE transformation. |
 | `config_Elancet_FABEXIO.py` | Local path and model configuration. |
