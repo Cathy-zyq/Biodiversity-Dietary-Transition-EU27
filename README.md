@@ -17,13 +17,14 @@ This repository contains a two-stage workflow for preparing 2017 food-demand dat
 | `population from 2015 to 2020.csv` | Population data used in both `FOODTURE data transformation.ipynb` and `FABEXIO-2017-Sample.ipynb`  |
 | `fabio_functionsv2.py` | Reader module used for FABIO v2 data. |
 | `fabio_functionsv1_2.py` | Reader module used for FABIO v1.2 calorie and biomass data. |
+|`glam_impacts_D_pba.tsv`| GLAM biodiversity impact data，corresponding to GLAM version 1.0.2024.10 and EXIOBASE v3.9.6 and used as the environmental extension in the FABEXIO calculations.The file is not included in this repository due to its large size but is available upon request.
 
 ## External data not included
 Download the following datasets separately and set their local locations in `config_Elancet_FABEXIO.py`:
 - FABIO v2 beta data directory;
 - FABIO v1.2 calorie and biomass data directory;
-- EXIOBASE 3.9.6 product-by-product data for 2017 (`IOT_2017_pxp`)；
-- GLAM biodiversity impact data (`glam_impacts_D_pba.tsv`), corresponding to GLAM version 1.0.2024.10 and EXIOBASE v3.9.6 and used as the environmental extension in the FABEXIO calculations.
+- EXIOBASE v3.9.6 product-by-product data for 2017 (`IOT_2017_pxp`)；
+- GLAM v1.0.2024.10. characterization factors data for ecosystem quality
 
 ## Software requirements
 The workflow requires Python 3 with numpy, pandas, openpyxl, and rpy2, as well as R for reading the FABIO data.
@@ -39,4 +40,4 @@ The workflow requires Python 3 with numpy, pandas, openpyxl, and rpy2, as well a
 ## 🔗 Data Downloads
 - FABIO v2 is available at: [https://github.com/fineprint-global/fabio]
 - EXIOBASE v3.9.6 is available at: [https://zenodo.org/records/15689391]
-- GLAM  v 1.0.2024.10 is available at: [https://www.lifecycleinitiative.org/activities/life-cycle-assessment-data-and-methods/global-guidance-for-life-cycle-impact-assessment-indicators-and-methods-glam/]
+- GLAM  v1.0.2024.10 is available at: [https://www.lifecycleinitiative.org/activities/life-cycle-assessment-data-and-methods/global-guidance-for-life-cycle-impact-assessment-indicators-and-methods-glam/]
